@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasser-nji)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daotnet@gmail.com)
-[![Mentoraura](https://www.google.com/imgres?q=image%20badge%20cloud%20academy&imgurl=https%3A%2F%2Fwww.cloudspaceacademy.com%2Fassets%2Fimages%2Flogo.png&imgrefurl=https%3A%2F%2Fwww.cloudspaceacademy.com%2F&docid=wEYyZiMsbnO-fM&tbnid=R0bnW1crfzqJDM&vet=12ahUKEwiO7I_ZiY6VAxUwa0EAHaFFPLE4ChCc8A56BAgJEAE..i&w=2072&h=477&hcb=2&ved=2ahUKEwiO7I_ZiY6VAxUwa0EAHaFFPLE4ChCc8A56BAgJEAE)](https://www.cloudopslearning.com/)
+[![Mentoraura](https://www.cloudopslearning.com/images/logo.svg)](https://www.cloudopslearning.com/)
 
 </div>
 
