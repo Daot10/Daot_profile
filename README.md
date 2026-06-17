@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey there, I'm Akum Blaise Acha
+# 👋 Hey there, I'm Zounkifil NJI Nasser
 
 ### Junior DevOps & Platform Cloud Engineer | Cloud Architect
 
@@ -10,8 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasser-nji)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daotnet@gmail.com)
-[![Newsletter](https://img.shields.io/badge/Newsletter-1500%2B_Subscribers-FF6B6B?style=for-the-badge&logo=substack&logoColor=white)](https://www.theengineeringladder.com)
-[![Mentoraura](https://img.shields.io/badge/Mentoraura-Platform-4A90E2?style=for-the-badge&logo=meta&logoColor=white)](https://mentoraura.com)
+[![Mentoraura](https://www.google.com/imgres?q=cloudops%20academy&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E0BAQEMRS6xqtFj6g%2Fcompany-logo_100_100%2FB4EZY5VMNYGgAU-%2F0%2F1744718580136%2Fcloudops_learning_logo%3Fe%3D2147483647%26v%3Dbeta%26t%3D7OUVQeK5GNIlc0qi6NLEKtEbgRCXcRhM4wdB5IfW9I8&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fcloudops-learning&docid=XIf_pB1VAwO8dM&tbnid=tysleNqzOCRxxM&vet=12ahUKEwjLrc3xho6VAxWEXEEAHfHpAHkQnPAOegQIJBAB..i&w=100&h=100&hcb=2&ved=2ahUKEwjLrc3xho6VAxWEXEEAHfHpAHkQnPAOegQIJBAB)](https://www.cloudopslearning.com/)
 
 </div>
 
