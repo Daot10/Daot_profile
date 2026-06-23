@@ -92,7 +92,9 @@ Faster Recovery
 ### ☁️ Cloud Platforms
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![VPS](https://img.shields.io/badge/VP_Server-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+<!-- ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
 
 ### 🐳 Containerization & Orchestration
 
@@ -116,8 +118,9 @@ Faster Recovery
 
 ### 💻 Programming & Scripting
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
+
+![Bash](https://img.shields.io/badge/Scrip_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🗄️ Databases & Data
@@ -136,32 +139,24 @@ Faster Recovery
 
 ---
 
+<!--
 ## 📈 GitHub Stats
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akum65358Blaise&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akum65358Blaise&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
+</div> -->
 
 ---
 
 ## 🎓 Mentorship & Community
 
-### 📰 DevOps Newsletter
+### 👨‍🏫 cloudops learning Platform
 
-I write a **weekly newsletter** sharing real-world DevOps lessons, infrastructure war stories, and practical tips for **1,500+ engineers**. From debugging Kubernetes to optimizing cloud costs, I cover what actually matters in production.
-
-### 👨‍🏫 Mentoraura Platform
-
-Through **[Mentoraura]([mentoraura.com])**, I mentor engineers transitioning into DevOps and Platform Engineering roles. I've helped dozens of engineers:
-
-- 🎯 Land their first DevOps/Platform Engineering role
-- 📚 Build production-ready portfolios
-- 🚀 Learn AWS, Kubernetes, Terraform, and CI/CD hands-on
-- 💼 Navigate technical interviews and career growth
+Through **[cloudops learning]([https://www.cloudopslearning.com])**, I collaborate whit the DevOps teams about many topics concerning :
 
 **Topics I Mentor On:**
 
@@ -185,25 +180,26 @@ Through **[Mentoraura]([mentoraura.com])**, I mentor engineers transitioning int
 - Implemented zero-downtime deployments with health checks
 - Stack: Docker, Kubernetes, Terraform, AWS
 
-### 📦 [Multi-Cloud CI/CD Pipeline](https://github.com/Daot10/seeme-project)
+### 📦 [Multi-Cloud CI/CD Pipeline](https://github.com/Daot10/node-cicd-demo)
 
 **Enterprise-Grade Deployment System**
 
 - Designed GitOps-based CI/CD for multi-environment deployments
-- Implemented automated testing, security scanning, and rollbacks
+- Implemented automated testing and security scanning
 - Reduced deployment time from 45min to 8min
-- Stack: GitHub Actions, ArgoCD, Terraform, Kubernetes
+- Stack: GitHub Actions
 
-### 🔍 [Infrastructure Observability Stack](project-link)
+### 🔍 [Infrastructure Of Kubernetes ](https://github.com/Daot10/kubernetes-practice-projet2/blob/main/e-commerce-implementation.md)
 
 **Production Monitoring System**
 
-- Built comprehensive monitoring for 40+ metrics across microservices
-- Created custom Grafana dashboards for real-time insights
-- Implemented automated alerting and incident response
-- Stack: Prometheus, Grafana, Sentry, ELK
+- Built comprehensive platform across three environments
+- Created configuration management for each environment defining his parameters and resources for running
+- Protected the project against data loss by storing securely the Database credentials
+- Performed the code so that it can auto scale to avoid the total burg to the project
+- Implemented automated testing and security, scanning and rollbacks
 
-### 🔐 [Terraform AWS Infrastructure Modules](project-link)
+### 🔐 [Terraform AWS Infrastructure Modules](https://github.com/Daot10/seeme-project)
 
 **Reusable IaC Templates**
 
@@ -212,18 +208,18 @@ Through **[Mentoraura]([mentoraura.com])**, I mentor engineers transitioning int
 - Used across multiple projects for consistent infrastructure
 - Stack: Terraform, AWS, GitHub Actions
 
+### 📦 [Self-hosting infrastructure](https://gitlab.com/training8894851/maven-cicd-server)
+
+**Enterprise-Grade Deployment System**
+
+- Created and configure the host server
+- Designed GitOps-based CI/CD for multi-environment deployments
+- Created and configured the runner and link it to the server
+- Implemented automated testing, security scanning, and rollbacks
+- Reduced deployment time from 45min to 8min
+- Stack: Gitlab runner, Docker swam
+
 ---
-
-## 📝 Latest Blog Posts & Content
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section can be automated with GitHub Actions -->
-
-- 🔄 \*\*From Help Desk to DevOps in 18 Months
-- 💰 **The $12K Cloud Bill I Cut to $8K**: AWS Cost Optimization Strategies That Work
-- 🚨 **Zero-Downtime Deployments**: Kubernetes Strategies for 99.9% Uptime
-- 🔧 **Terraform Best Practices**: What I Learned Managing Infrastructure at Scale
-<!-- BLOG-POST-LIST:END -->
 
 ## 💬 Let's Connect
 
@@ -232,17 +228,15 @@ I'm always open to:
 - 🤝 **Collaborating** on DevOps/Platform Engineering projects
 - 💼 **Consulting** on cloud architecture and infrastructure design
 - 🎤 **Speaking** at conferences, meetups, and podcasts
-- 👨‍🏫 **Mentoring** engineers into DevOps roles
 - 📝 **Writing** guest posts about real-world DevOps experiences
 
 ### 📫 Reach Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-akumacha@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akumacha@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akum-blaise-acha)
-[![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-FF6B6B?style=for-the-badge&logo=substack&logoColor=white)](https://www.theengineeringladder.com)
-[![Mentoraura](https://img.shields.io/badge/Mentoraura-Get_Mentored-4A90E2?style=for-the-badge&logo=meta&logoColor=white)](https://mentoraura.com)
+[![Email](https://img.shields.io/badge/Email-daotnet@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daotnet@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nasser-nji)
+[![cloudops learning](https://img.shields.io/badge/Cloudops_learning-4A90E2?style=for-the-badge&logo=meta&logoColor=white)](https://www.cloudopslearning.com/)
 
 </div>
 
@@ -252,12 +246,12 @@ I'm always open to:
 
 ### ⚡ Fun Fact
 
-_I believe the best infrastructure is the one developers never have to think about._
+_I believe the best infrastructure is the one developers never have to worry about._
 
 ---
 
 **"Infrastructure shouldn't be an obstacle—it should be an accelerator."**
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Akum65358Blaise.Akum65358Blaise)
+<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Akum65358Blaise.Akum65358Blaise) -->
 
 </div>
