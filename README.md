@@ -24,7 +24,7 @@ I'm a **Junior cloud & DevOps Engineer** with **2 years** of hands-on experience
 
 - ⚡ **Scalable** - Handle growth without breaking
 - 🛡️ **Reliable** - 99%+ uptime is the baseline
-- 💰 **Cost-efficient** - No surprise cloud bills
+- 💰 **Optimal** - Underscores maximum efficiency
 - 🚀 **Developer-friendly** - Engineers ship faster, not slower
 
 ### 🎯 What I Do
