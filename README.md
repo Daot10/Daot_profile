@@ -77,9 +77,7 @@ Faster Recovery
 
 - 🚀 **Deployment Velocity**: Reduced deployment time by 50% through containerized CI/CD pipelines with automated testing and rollback strategies
 - ✅ **Reliability Engineering**: Improved uptime from 85% to 99.2% via zero-downtime architectures and intelligent failover design
-- 💰 **Cloud Cost Optimization**: Cut AWS/GCP costs by 35% using right-sized infrastructure, auto-scaling, and resource optimization
-- 📉 **Incident Response**: Slashed MTTR by 80% with comprehensive observability (Grafana + Sentry monitoring 40+ production metrics)
-- 🏗️ **Platform Engineering**: Built and launched **[Zocamhost](https://zocamhost.us)**, a hosting platform serving 150+ businesses with automated provisioning
+- 💰 **Cloud Optimization**: Cut AWS by 35% using right-sized infrastructure, auto-scaling, and resource optimization
 - 🔄 **Modernization**: Refactored and Dockerized 10+ microservices with standardized pipelines and one-click rollbacks
 - 📦 **Multi-Cloud Architecture**: Designed CI/CD systems using Terraform, GitHub Actions, and infrastructure-as-code across AWS and GCP
 
@@ -156,7 +154,7 @@ Faster Recovery
 
 ### 👨‍🏫 cloudops learning Platform
 
-Through **[cloudops learning]([https://www.cloudopslearning.com])**, I collaborate whit the DevOps teams about many topics concerning :
+Through **[cloudops learning]([https://www.cloudopslearning.com])**, I collaborate whit DevOps teams about many topics concerning :
 
 **Topics I Mentor On:**
 
@@ -170,15 +168,6 @@ Through **[cloudops learning]([https://www.cloudopslearning.com])**, I collabora
 ---
 
 ## 🚀 Featured Projects
-
-### 🏗️ [Zocamhost](https://zocamhost.us)
-
-**Automated Hosting Platform**
-
-- Built a production hosting platform serving **200+ businesses**
-- Automated server provisioning, deployment, and scaling
-- Implemented zero-downtime deployments with health checks
-- Stack: Docker, Kubernetes, Terraform, AWS
 
 ### 📦 [Multi-Cloud CI/CD Pipeline](https://github.com/Daot10/node-cicd-demo)
 
