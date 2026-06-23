@@ -224,7 +224,7 @@ I'm always open to:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-daotnet@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daotnet@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nasser-nji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasser-nji)
 [![cloudops learning](https://img.shields.io/badge/Cloudops_learning-4A90E2?style=for-the-badge&logo=meta&logoColor=white)](https://www.cloudopslearning.com/)
 
 </div>
